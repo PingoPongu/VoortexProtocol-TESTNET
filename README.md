@@ -1,0 +1,2 @@
+# VoortexProtocol-TESTNET
+TESTNET
